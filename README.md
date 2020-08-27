@@ -3,7 +3,8 @@
   <!-- <a href="https://github.com/hayat-tamboli/Music_Generator/blob/master/license" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a> -->
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/manas1820/music_generator">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/manas1820/music_generator?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-python-green?style=for-the-badge&logo=python" alt="Open In Colab"/>
     
 </p>
 
